@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Brain dumps and tech notes</title>
     <link>http://aa-9000.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Brain dumps and tech notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://aa-9000.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Mar 2022 22:14:35 +0000</lastBuildDate><atom:link href="http://aa-9000.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS</title>
+      <link>http://aa-9000.github.io/aws/</link>
+      <pubDate>Fri, 18 Mar 2022 22:14:35 +0000</pubDate>
+      <guid>http://aa-9000.github.io/aws/</guid>
+      <description>Chapter X Some Chapter title Lorem Ipsum.</description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>http://aa-9000.github.io/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://aa-9000.github.io/code/</guid>
+      <description>Chapter X Some Chapter title Lorem Ipsum.</description>
+    </item>
+    <item>
+      <title>Kubernetes</title>
+      <link>http://aa-9000.github.io/kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://aa-9000.github.io/kubernetes/</guid>
+      <description>Chapter X Some Chapter title Lorem Ipsum.</description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>http://aa-9000.github.io/linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://aa-9000.github.io/linux/</guid>
+      <description>Chapter X Some Chapter title Lorem Ipsum.</description>
+    </item>
   </channel>
 </rss>

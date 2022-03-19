@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://aa-9000.github.io/categories/</loc>
+    <loc>http://aa-9000.github.io/aws/</loc>
+    <lastmod>2022-03-18T22:14:35+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://aa-9000.github.io/code/</loc>
+  </url>
+  <url>
+    <loc>http://aa-9000.github.io/kubernetes/</loc>
+  </url>
+  <url>
+    <loc>http://aa-9000.github.io/linux/</loc>
   </url>
   <url>
     <loc>http://aa-9000.github.io/</loc>
+    <lastmod>2022-03-18T22:14:35+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://aa-9000.github.io/aws/random-commands/</loc>
+    <lastmod>2022-03-18T22:14:35+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://aa-9000.github.io/categories/</loc>
   </url>
   <url>
     <loc>http://aa-9000.github.io/tags/</loc>

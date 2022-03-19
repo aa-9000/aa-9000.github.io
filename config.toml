@@ -1,4 +1,11 @@
 baseURL = 'http://aa-9000.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Brain dumps and tech notes'
 theme = 'hugo-theme-relearn'
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+[params]
+themeVariant = "blue"
+
+
