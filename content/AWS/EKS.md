@@ -6,12 +6,6 @@ draft: false
 
 
 
-#### Node provisioning
-1. Karpenter: https://aws.github.io/aws-eks-best-practices/karpenter/
-
-#### Ingress
-
-#### Tutorials
-1. AWS EKS Workshop: https://www.eksworkshop.com/
+TODO
 
 

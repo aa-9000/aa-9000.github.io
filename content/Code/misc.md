@@ -4,7 +4,6 @@ date: 2022-03-20T14:26:35Z
 draft: false
 ---
 
-# Code ![golang-img](https://github.com/manaten/computing-mascots-pixelart-icons/raw/master/golang.gif)
 
 Not really code as such, but heres some markdown notes
 

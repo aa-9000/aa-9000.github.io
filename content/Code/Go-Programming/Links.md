@@ -1,5 +1,5 @@
 ---
-title: "Go Programming"
+title: "Links"
 date: 2022-03-18T22:18:23Z
 draft: false
 tags: ['go']
