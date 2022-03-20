@@ -1,7 +1,8 @@
 ---
-title: "Random Commands"
+title: "Commands"
 date: 2022-03-18T22:14:35Z
 draft: false
+tags: ['aws']
 ---
 
 ```shell
@@ -27,7 +28,13 @@ aws s3api put-public-access-block \
 ```shell
 aws s3api --region eu-west-1 put-bucket-tagging Tagset='[{Key=owner,Value='blah'}]'
 ```
+```shell
+for i in $(aws s3api list-buckets | jq -r '.Buckets[].Name'); do aws s3api put-bucket-logging --bucket ${i}; done
+```
+
+```shell
+curl checkip.amazonaws.com
+```
 
 
-- IAM live: https://github.com/iann0036/iamlive
-- Scout Suite: https://github.com/nccgroup/ScoutSuite
+

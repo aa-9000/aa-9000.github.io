@@ -1,8 +1,11 @@
 ---
-title: "General"
+title: "Commands"
 date: 2022-03-18T22:18:51Z
 draft: false
+tags: ['linux', 'random', 'commands']
 ---
+# ![linux](https://raw.githubusercontent.com/manaten/computing-mascots-pixelart-icons/master/linux.gif)
+
 
 ### Git
 ```shell
@@ -31,16 +34,29 @@ openssl req -noout -modulus -in CSR.csr | openssl md5
 openssl rsa -noout -modulus -in PRIVATEKEY.key | openssl md5
 ```
 
-### sed
+### Random
 ```shell
 https://www.gnu.org/software/sed/manual/html_node/Multiline-techniques.html
 ```
-
-### Misc
+```shell
+hugo new --kind chapter Code/_index.md
+hugo new AWS/EKS.md
+```
 
 ```shell
-checkip.amazonaws.com
-aws-shell https://github.com/awslabs/aws-shell
-stress-ng https://wiki.ubuntu.com/Kernel/Reference/stress-ng
-lsd https://github.com/Peltoche/lsd
+socat -d -d -d TCP4-LISTEN:8181,fork,reuseaddr TCP4:10.1.2.3:80
+```
+
+```shell
+ssh -L 80:localhost:8080 10.1.2.3
+```
+
+```shell
+.mode csv
+.import ./all_user_data.csv UserData
+```
+
+```shell
+set -eu -o pipefail
+# Catch unused variables, and failed command pipes
 ```

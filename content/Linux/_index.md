@@ -1,12 +1,9 @@
 +++
 chapter = true
-pre = "<b>4. </b>"
+pre = "<b>1. </b>"
 title = "Linux"
-weight = 5
+weight = 1
 +++
 
-### 
-
-# Linux
-
-General linux related stuff
+Mainly a list of useful Linux commands, but will maybe add some distribution spectific
+stuff in the future

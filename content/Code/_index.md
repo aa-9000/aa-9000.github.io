@@ -1,9 +1,8 @@
 +++
 chapter = true
-pre = "<b>2. </b>"
+pre = "<b>4. </b>"
 title = "Code"
-weight = 2
+weight = 4
 +++
 
-# Coding Notes
-
+Notes on all things programming, primarily Go and Python for now

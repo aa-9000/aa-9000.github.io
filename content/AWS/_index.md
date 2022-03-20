@@ -1,12 +1,8 @@
 +++
 chapter = true
-pre = "<b>1. </b>"
+pre = "<b>3. </b>"
 title = "AWS"
-weight = 1
+weight = 3
 +++
 
-
-# AWS
-
-
-Workshops: https://workshops.aws/
+Notes relating to Amazon Web Services and related resources

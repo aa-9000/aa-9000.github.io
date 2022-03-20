@@ -1,7 +1,8 @@
 ---
-title: "General"
+title: "Commands"
 date: 2022-03-18T22:19:45Z
 draft: false
+tags: ['kubernetes', 'k8s']
 ---
 
 Kubectl commands
